@@ -11,6 +11,7 @@ The formats this textbook should be able to printed to are
 - viewed as HTML slides for a lecture
 - printed to a pdf
 - sent to an on-demand printer for binding
+- (?) readable on a smart device, e.g. eReader, tablet
 
 For printing to a pdf and on-demand printing, an option should be available so that only desired components are printed.
 
