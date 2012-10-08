@@ -1,7 +1,7 @@
 # stats.text
 
 
-A free and open-source statistics textbook. Originally this book is being developed for STAT 401A at Iowa State University, but the expectation is that it will be created in such a way that individual instructors can pull relevant components to build material suitable to their course. 
+A free and open-source statistics textbook licensed under the [Attribution-ShareAlike Creative Commons license](http://creativecommons.org/licenses/by-sa/3.0/legalcode). Originally this book is being developed for STAT 401A at Iowa State University, but the expectation is that it will be created in such a way that individual instructors can pull relevant components to build material suitable to their course. 
 
 
 ## Design requirements
