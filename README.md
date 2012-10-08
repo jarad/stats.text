@@ -1,4 +1,5 @@
-# stats.text
+stats.text
+---
 
 A free and open-source statistics textbook licensed under the [Attribution-ShareAlike Creative Commons license](http://creativecommons.org/licenses/by-sa/3.0/legalcode). 
 
