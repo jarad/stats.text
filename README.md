@@ -1,17 +1,18 @@
 # stats.text
 
 
-A free and open-source statistics textbook.
+A free and open-source statistics textbook. Originally this book is being developed for STAT 401A at Iowa State University, but the expectation is that it will be created in such a way that individual instructors can pull relevant components to build material suitable to their course. 
 
 
 ## Design requirements
 
 The formats this textbook should be able to printed to are
-- viewed as HTML 
+- viewed as HTML textbook
+- viewed as HTML slides for a lecture
 - printed to a pdf
 - sent to an on-demand printer for binding
 
-For printing to a pdf and on-demand printing, only desired components should be printed.
+For printing to a pdf and on-demand printing, an option should be available so that only desired components are printed.
 
 
 ## Components
